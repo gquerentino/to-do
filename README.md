@@ -1,3 +1,3 @@
-- Password Manager
-- Comic book web app
-- Gym Exercises List
+- Password Manager (In progress) (https://github.com/gquerentino/password-manager)
+- Comic book web app (Not started)
+- Gym Exercises List (Not started)
